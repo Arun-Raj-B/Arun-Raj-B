@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://linkedin.com/in/www.linkedin.com/in/arun-raj-b-601195246)
+[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://www.linkedin.com/in/arun-raj-b-601195246)
 
 <h1 align="center">Hi 👋, I'm Arun Raj</h1>
 <h3 align="center">A MERN Stack Developer with 6 months of expertise in building efficient and scalable web applications. Proficient in utilizing MongoDB, Express.js, React.js, and Node.js to create dynamic and user-friendly front-end and back-end systems.</h3>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arun-raj-b-601195246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arun-raj-b-601195246" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-raj-b-601195246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arun-raj-b-601195246" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sent2arunraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sent2arunraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arun-2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun-2000" height="30" width="40" /></a>
 </p>
