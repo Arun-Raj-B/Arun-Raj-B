@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://www.linkedin.com/in/arun-raj-b-601195246)
+[![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://www.linkedin.com/in/arunrajb-)
 
 <h1 align="center">Hi 👋, I'm Arun Raj</h1>
 <h3 align="center">A Backend Developer with 2.5 years of experience in building scalable and production-grade web applications using Node.js, NestJS, and PostgreSQL. Experienced in third-party integrations, architecture design, and team leadership.</h3>
@@ -34,7 +34,3 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-raj-b&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-raj-b&show_icons=true&locale=en" alt="stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-raj-b&" alt="streak" /></p>
